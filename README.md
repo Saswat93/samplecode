@@ -1,3 +1,6 @@
+https://medium.com/avmconsulting-blog/kubernetes-ci-cd-using-jenkins-on-google-cloud-5b10da6147a6
+
+
 First Time Setup
 
 Install virtualenv and activate
